@@ -1,0 +1,3 @@
+Name: Raaghav Arya
+Email: r-arya@ti.com
+Introduction: WiSH volunteer, workbook author for Week 2 (CLI and Git), and embedded systems engineer at Texas Instruments.
